@@ -1,7 +1,7 @@
 WORK IN PROGRESS. 
 
 Since I am on Arch Linux, this software **will eventually be made** available on AUR: 
-> $ yay -S lext-artwork-narc 
+> $ yay -S lext-theme-narc 
 
 # lext-artwork-narc
 This repository is the placeholder for AUR package that installs **Narc-Colors-Theme** (a theme for LXQt).
